@@ -1,1 +1,1 @@
-# hello this is viraj
+# 👋 Hello there! I'm Viraj , a passionate coder and lifelong learner on a mission to create meaningful and innovative solutions through code.
