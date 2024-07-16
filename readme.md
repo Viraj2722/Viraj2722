@@ -1,5 +1,5 @@
 
-<hr><b>Currently playing on Spotify</b></hr>
+<!<hr><b>Currently playing on Spotify</b></hr>>
 
 [![spotify playing](https://virajspotify-1-r0490145.deta.app/?theme=dark&spin=true&scan=true&rainbow=true 'spotify playing image')](https://virajspotify-1-r0490145.deta.app/play)
 
