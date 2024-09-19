@@ -1,7 +1,7 @@
 
-<!-- <hr><b>Currently playing on Spotify</b></hr>
+<hr><b>Currently playing on Spotify</b></hr>
 
-[![spotify playing](https://virajspotify-1-r0490145.deta.app/?theme=dark&spin=true&scan=true&rainbow=true 'spotify playing image')](https://virajspotify-1-r0490145.deta.app/play) -->
+[![spotify playing](https://virajspotify-1-r0490145.deta.app/?theme=dark&spin=true&scan=true&rainbow=true 'spotify playing image')](https://virajspotify-1-r0490145.deta.app/play) 
 
 <h1 align="center">Hi 👋, I'm Viraj Walavalkar</h1>
 <h3 align="center">A passionate developer and a firm learner</h3>
