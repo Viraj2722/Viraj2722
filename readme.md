@@ -1,7 +1,4 @@
-
-
-
-[![spotify playing](https://lastfm.dedomil.workers.dev/viirage?dark&spin&rainbow 'spotify playing image')](https://virajspotify-1-r0490145.deta.app/play) 
+[![music playing](https://lastfm.dedomil.workers.dev/viirage?dark&spin&rainbow&scan 'music playing image')](https://lastfm.dedomil.workers.dev/viirage) 
 
 <h1 align="center">Hi 👋, I'm Viraj Walavalkar</h1>
 <h3 align="center">A passionate developer and a firm learner</h3>
@@ -11,7 +8,7 @@
 
 - 📫 How to reach me **virajwalavalkar90982@gmail.com**
 
-- ⚡ Fun fact ** Always debugging the Code!!**
+- ⚡ Fun fact ** Might be debugging the Code!!**
 
 - Feel free to explore my repositories for more!!
 
