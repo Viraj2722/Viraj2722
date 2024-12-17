@@ -2,11 +2,10 @@
 
 <h1 align="center" style="font-family: Arial, Helvetica, sans-serif;">Hi 👋, I'm Viraj Walavalkar</h1>
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">A passionate developer, problem solver, and a firm believer in lifelong learning</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<br>
+<img align="right" alt="Coding" width="400" height="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left" style="font-family: Arial, Helvetica, sans-serif;">
-🔭 I have worked on several <b>real-world projects</b>, solving challenging problems and delivering impactful solutions. From IoT integrations to application development, my journey has been about learning and creating innovative experiences.
+- I have worked on several <b>real-world projects</b>, solving challenging problems and delivering impactful solutions. From IoT integrations to application development, my journey has been about learning and creating innovative experiences.
 </p>
 
 <p align="left" style="font-family: Arial, Helvetica, sans-serif;">
@@ -25,7 +24,6 @@
 - 🎯 Feel free to explore my repositories for more exciting projects and ideas!
 </p>
 
----
 
 <h3 align="left" style="font-family: Arial, Helvetica, sans-serif;">🌐 Connect with me:</h3>
 <p align="left">
@@ -69,15 +67,5 @@
 </p>
 
 ---
-
-<h3 align="left" style="font-family: Arial, Helvetica, sans-serif;">📈 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virajwalavalkar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajwalavalkar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=virajwalavalkar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="400"/>
-</p>
 
 
