@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="Coding" width="400" height="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left" style="font-family: Arial, Helvetica, sans-serif;">
-- I have worked on several <b>real-world projects</b>, solving challenging problems and delivering impactful solutions. From IoT integrations to application development, my journey has been about learning and creating innovative experiences.
+- I have worked on several <b>Real-world projects</b>. From IoT integrations to application development, my journey has been about learning and creating innovative experiences.
 </p>
 
 <p align="left" style="font-family: Arial, Helvetica, sans-serif;">
