@@ -1,4 +1,4 @@
-[![music playing](https://lastfm.dedomil.workers.dev/viirage?dark&spin&rainbow&scan 'music playing image')](https://lastfm.dedomil.workers.dev/viirage) 
+<!--[![music playing](https://lastfm.dedomil.workers.dev/viirage?dark&spin&rainbow&scan 'music playing image')](https://lastfm.dedomil.workers.dev/viirage) -->
 
 <h1 align="center">Hi 👋, I'm Viraj Walavalkar</h1>
 <h3 align="center">A passionate developer and a firm learner</h3>
