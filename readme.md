@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj2722&label=Profile%20views&color=0e75b6&style=flat" alt="viraj2722" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraj2722" alt="viraj2722" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraj2722" alt="viraj2722" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/walavalkarviraj" target="blank"><img src="https://img.shields.io/twitter/follow/walavalkarviraj?logo=twitter&style=for-the-badge" alt="walavalkarviraj" /></a> </p>
 
@@ -39,7 +39,9 @@
 
 <h3 align="left">Support:</h3>
 
-<p>
+<h3 align="left">Support:</h3>
+
+<p align="left">
   <a href="https://www.buymeacoffee.com/virajwalavalkar">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee - virajwalavalkar" />
   </a>
@@ -47,14 +49,17 @@
 
 <br/>
 
+<h3 align="left">📊 GitHub Stats</h3>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj2722&show_icons=true&locale=en&layout=compact" alt="Top Languages - viraj2722" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj2722&layout=compact&theme=dark" alt="Top Languages - viraj2722" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=viraj2722&show_icons=true&locale=en&theme=dark" alt="GitHub Stats - viraj2722" />
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj2722&show_icons=true&locale=en" alt="viraj2722" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj2722&" alt="viraj2722" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viraj2722&theme=dark" alt="GitHub Streak - viraj2722" />
+</p>
 
 
 
