@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://portfoliov-five.vercel.app/](https://portfoliov-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliov-five.vercel.app/](https://viraj2722.vercel.app/)
 
 - 📝 I regularly write articles on [viraj.deno.dev](viraj.deno.dev)
 
