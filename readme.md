@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Viraj Walavalkar</h1>
 <h3 align="center">Full Stack Developer | Building scalable web & mobile applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj2722&label=Profile%20views&color=0e75b6&style=flat" alt="viraj2722" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=viraj2722&label=Profile%20views&color=0e75b6&style=flat" alt="viraj2722" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraj2722" alt="viraj2722" /></a> </p>-->
-
-<p align="left"> <a href="https://twitter.com/walavalkarviraj" target="blank"><img src="https://img.shields.io/twitter/follow/walavalkarviraj?logo=twitter&style=for-the-badge" alt="walavalkarviraj" /></a> </p>
 
 ---
 
@@ -38,18 +36,62 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/walavalkarviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viraj-walavalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/viraj_2722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+   <a href="https://viraj2722.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://viraj.deno.dev">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=deno&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/viraj_2722">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/viraj-walavalkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_viiiraj_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/walavalkarviraj">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- keep your existing icons as it is -->
-</p>
+<h3 align="left">Languages and Tools:</h3>
+
+<!-- Languages -->
+<b>Languages</b><br>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,python,go,dart,rust&perline=8" />
+<br><br>
+
+<!-- Frameworks -->
+<b>Frameworks & Libraries</b><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap&perline=8" />
+<br><br>
+
+<!-- Databases -->
+<b>Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,dynamodb&perline=8" />
+<br><br>
+
+<!-- Tools & Cloud -->
+<b>Tools & Cloud</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=plastic&logo=amazonaws&logoColor=white" height="48" />
+&nbsp;
+<img src="https://img.shields.io/badge/CDN-232F3E?style=plastic&logo=cloudflare&logoColor=white" height="48" />
+<br><br>
 
 ---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=viraj2722&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj2722&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+</p>
 
-![Stats](https://github-states-generator.vercel.app/api?username=Viraj2722&theme=react&show=prs_merged&title_color=ffffff)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=viraj2722&theme=tokyonight&hide_border=true" height="190"/>
+</p>
