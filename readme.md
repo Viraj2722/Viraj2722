@@ -1,7 +1,10 @@
 <!--[![music playing](https://lastfm.dedomil.workers.dev/viirage?dark&spin&rainbow&scan 'music playing image')](https://lastfm.dedomil.workers.dev/viirage) -->
 
-<h1 align="center">Hi 👋, I'm Viraj Walavalkar</h1>
-<h3 align="center">Full Stack Developer | Building scalable web & mobile applications</h3>
+<!-- <h1 align="center">Hi 👋, I'm Viraj Walavalkar</h1> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;This+is+Viraj+Walavalkar;Nice+to+meet+you!" />
+</h1>
+<h3 align="center">| Full Stack Developer | Building scalable real-world applications |</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viraj2722&label=Profile%20views&color=0e75b6&style=flat" alt="viraj2722" /> </p>
 
@@ -10,23 +13,22 @@
 ---
 
 - 🎓 Final-year Computer Engineering student (CGPA: 9.13)  
-- 💻 Full Stack Developer with experience building **production-grade applications**  
-- 🚀 Built and deployed real-world projects and solved real-world problems too.
-- ☁️ Skilled in **React, Next.js, Node.js, AWS, REST APIs**  
-- 🌱 Currently learning **System Design, DSA, and scalable architectures**  
+- 💻 Full Stack Developer (React, Next.js, Node.js, AWS)  
+- 🚀 Built and deployed production-grade apps (E-commerce, AI, Mobile)  
+- ⚙️ Experience with scalable backend systems & REST APIs  
+- 🏆 1x National level Hackathon Winner | 1st & 2nd place in mini-project competitions  
+- 📦 Published npm package + 40+ GitHub repositories  
+- 🌱 Currently learning System Design & DSA   
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at:  
-  https://viraj2722.vercel.app/
+- 👨‍💻 All of my projects are available at: https://viraj2722.vercel.app/
 
-- 📝 Read my recent article on:  
-  https://viraj.deno.dev
+- 📝 Read my recent article on: https://viraj.deno.dev
 
 - 💬 Ask me about **React, Next.js, backend systems, APIs, and npm publishing**
 
-- 📫 Reach me at:  
-  **virajwalavalkar90982@gmail.com**
+- 📫 Reach me at: **virajwalavalkar90982@gmail.com**
 
 <!--- 📄 Resume: keep if needed or remove if outdated --->
 
@@ -60,7 +62,6 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 
 <!-- Languages -->
 <b>Languages</b><br>
@@ -87,6 +88,8 @@
 <br><br>
 
 ---
+<h3 align="left">Github Stats:</h3>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=viraj2722&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj2722&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
