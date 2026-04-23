@@ -8,6 +8,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viraj2722&label=Profile%20views&color=0e75b6&style=flat" alt="viraj2722" /> </p>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFiaDI1ZHl0bXZ4M2ppczZycmZ0Y2FyaHZkem12a3ZzZ3lqd2wxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="350"/>
+</p>
+
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraj2722" alt="viraj2722" /></a> </p>-->
 
 ---
